@@ -1,6 +1,6 @@
 # WEB SCRAPPING CROUS DE FRANCE
 
-**EDIT non fonctionel**
+**EDIT non fonctionnel**
 
 Cet outil a pour objectif d'identifier les disponibilités des chambres proposées par le Crous.
 Très utile pour Paris notamment où il faut être très réactif pour obtenir une chambre.
